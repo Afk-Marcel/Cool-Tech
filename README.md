@@ -28,7 +28,7 @@ Follow these steps to set up the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone (https://github.com/Afk-Marcel/Cool-Tech.git)
+   git clone https://github.com/Afk-Marcel/Cool-Tech.git
    cd cool-tech
    ```
 
